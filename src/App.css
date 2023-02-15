@@ -1,0 +1,84 @@
+:root {
+  background-color: #6d2416;
+}
+
+#header {
+  background-color: rgb(51, 206, 159);
+  padding: 15px;
+}
+
+#title {
+  font-size: 1.5rem;
+  font-weight: 800;
+  color: rgb(0, 0, 0);
+}
+
+#scoreDiv {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 1.3rem;
+  font-weight: 600;
+  padding-top: 30px;
+  padding-bottom: 10px;
+}
+
+ .gameOn {
+  background-color: rgb(60, 124, 60, 0.5);
+  
+}
+
+.gameOver {
+  background-color: rgb(158, 59, 34, 0.5);
+}
+
+#best {
+  display: flex;
+  justify-content: flex-end;
+  padding: 10px;
+  font-size: 1.3rem;
+  font-weight: 600;
+  background-color: rgb(51, 206, 159);
+}
+
+
+
+#tilesWrapper {
+  display: flex;
+  justify-content: center;
+  padding-top: 50px;
+}
+
+#tileContainer {
+  display: grid;
+  grid-template: 1fr 1fr 1fr / 1fr 1fr 1fr 1fr;
+  justify-items: center;
+  align-items: center;
+  gap: 20px;
+}
+
+img {
+  height: 250px;
+  width: 250px;
+  border: 1px solid black;
+  border-radius: 5px;
+}
+
+.imgWrapper {
+  padding: 10px 10px 30px 10px;
+  background-color: rgb(18, 165, 96);
+  border-radius: 12px;
+}
+
+.imgWrapper:hover {
+  cursor: pointer;
+  background-color: orange;
+}
+
+.picName {
+  display: flex;
+  justify-content: center;
+  font-size: 1.3rem;
+  font-weight: 600;
+  padding-top: 12px;
+}
