@@ -4,13 +4,14 @@
 
 #header {
   background-color: rgb(51, 206, 159);
-  padding: 15px;
+  width: 100%;
 }
 
 #title {
   font-size: 1.5rem;
   font-weight: 800;
   color: rgb(0, 0, 0);
+  padding: 20px 0 0 30px;
 }
 
 #scoreDiv {
@@ -19,13 +20,8 @@
   align-items: center;
   font-size: 1.3rem;
   font-weight: 600;
-  padding-top: 30px;
-  padding-bottom: 10px;
-}
-
- .gameOn {
-  background-color: rgb(60, 124, 60, 0.5);
-  
+  padding-top: 15px;
+  color: orange;
 }
 
 .gameOver {
@@ -35,7 +31,7 @@
 #best {
   display: flex;
   justify-content: flex-end;
-  padding: 10px;
+  padding: 0 30px 15px 0;
   font-size: 1.3rem;
   font-weight: 600;
   background-color: rgb(51, 206, 159);
@@ -46,7 +42,7 @@
 #tilesWrapper {
   display: flex;
   justify-content: center;
-  padding-top: 50px;
+  padding-top: 20px;
 }
 
 #tileContainer {
@@ -54,18 +50,18 @@
   grid-template: 1fr 1fr 1fr / 1fr 1fr 1fr 1fr;
   justify-items: center;
   align-items: center;
-  gap: 20px;
+  gap: 15px;
 }
 
 img {
-  height: 250px;
-  width: 250px;
+  height: 200px;
+  width: 200px;
   border: 1px solid black;
   border-radius: 5px;
 }
 
 .imgWrapper {
-  padding: 10px 10px 30px 10px;
+  padding: 10px 10px 12px 10px;
   background-color: rgb(18, 165, 96);
   border-radius: 12px;
 }
@@ -78,7 +74,14 @@ img {
 .picName {
   display: flex;
   justify-content: center;
-  font-size: 1.3rem;
+  font-size: 1.2rem;
   font-weight: 600;
-  padding-top: 12px;
+  padding-top: 7px;
+}
+
+@media all and (max-width: 1366px) {
+  img {
+    width: 130px;
+    height: 130px;
+  }
 }
