@@ -37,12 +37,10 @@
   background-color: rgb(51, 206, 159);
 }
 
-
-
 #tilesWrapper {
   display: flex;
   justify-content: center;
-  padding-top: 20px;
+  padding: 20px 0;
 }
 
 #tileContainer {
@@ -80,8 +78,24 @@ img {
 }
 
 @media all and (max-width: 1366px) {
+  #title {
+    padding: 5px 0 0 30px;
+  }
+
+  #best {
+    padding-bottom: 5px;
+  }
+
   img {
     width: 130px;
     height: 130px;
+  }
+
+  .picName {
+    padding: 0;
+  }
+
+  .imgWrapper {
+    padding: 10px;
   }
 }

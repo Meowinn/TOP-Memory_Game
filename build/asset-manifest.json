@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/TOP-Memory_game/static/css/main.5af18acc.css",
+    "main.css": "/TOP-Memory_game/static/css/main.2292ce89.css",
     "main.js": "/TOP-Memory_game/static/js/main.39c0a833.js",
     "static/media/mitsuri.png": "/TOP-Memory_game/static/media/mitsuri.093b289e8b3528a88389.png",
     "static/media/zenitsu.png": "/TOP-Memory_game/static/media/zenitsu.169ac6e9682abc5ee19d.png",
@@ -15,11 +15,11 @@
     "static/media/sakonji.png": "/TOP-Memory_game/static/media/sakonji.a991adf7f237f7e56917.png",
     "static/media/shinobu.png": "/TOP-Memory_game/static/media/shinobu.ce4173dced060db08277.png",
     "index.html": "/TOP-Memory_game/index.html",
-    "main.5af18acc.css.map": "/TOP-Memory_game/static/css/main.5af18acc.css.map",
+    "main.2292ce89.css.map": "/TOP-Memory_game/static/css/main.2292ce89.css.map",
     "main.39c0a833.js.map": "/TOP-Memory_game/static/js/main.39c0a833.js.map"
   },
   "entrypoints": [
-    "static/css/main.5af18acc.css",
+    "static/css/main.2292ce89.css",
     "static/js/main.39c0a833.js"
   ]
 }
