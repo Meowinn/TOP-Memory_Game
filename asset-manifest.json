@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/TOP-Memory_game/static/css/main.2292ce89.css",
-    "main.js": "/TOP-Memory_game/static/js/main.39c0a833.js",
-    "static/media/mitsuri.png": "/TOP-Memory_game/static/media/mitsuri.093b289e8b3528a88389.png",
-    "static/media/zenitsu.png": "/TOP-Memory_game/static/media/zenitsu.169ac6e9682abc5ee19d.png",
-    "static/media/tengen.png": "/TOP-Memory_game/static/media/tengen.b51ba17fbadc2f3405da.png",
-    "static/media/gyomei.png": "/TOP-Memory_game/static/media/gyomei.75fe5e4a6e6755e760c8.png",
-    "static/media/tanjiro.png": "/TOP-Memory_game/static/media/tanjiro.409d821c0a2c0d9b9757.png",
-    "static/media/obanai.png": "/TOP-Memory_game/static/media/obanai.fcbeb06dc63da9c01a76.png",
-    "static/media/sanemi.png": "/TOP-Memory_game/static/media/sanemi.95ecd20eb1d614f2b9e5.png",
-    "static/media/muichiro.png": "/TOP-Memory_game/static/media/muichiro.b9af5ff4927083357621.png",
-    "static/media/kanao.png": "/TOP-Memory_game/static/media/kanao.c6c53a646a9ea12eb5ad.png",
-    "static/media/giyu.png": "/TOP-Memory_game/static/media/giyu.fe9b74feaaee6febf31d.png",
-    "static/media/sakonji.png": "/TOP-Memory_game/static/media/sakonji.a991adf7f237f7e56917.png",
-    "static/media/shinobu.png": "/TOP-Memory_game/static/media/shinobu.ce4173dced060db08277.png",
-    "index.html": "/TOP-Memory_game/index.html",
-    "main.2292ce89.css.map": "/TOP-Memory_game/static/css/main.2292ce89.css.map",
-    "main.39c0a833.js.map": "/TOP-Memory_game/static/js/main.39c0a833.js.map"
+    "main.css": "/project-memory_game/static/css/main.2292ce89.css",
+    "main.js": "/project-memory_game/static/js/main.fffcf4d8.js",
+    "static/media/mitsuri.png": "/project-memory_game/static/media/mitsuri.093b289e8b3528a88389.png",
+    "static/media/zenitsu.png": "/project-memory_game/static/media/zenitsu.169ac6e9682abc5ee19d.png",
+    "static/media/tengen.png": "/project-memory_game/static/media/tengen.b51ba17fbadc2f3405da.png",
+    "static/media/gyomei.png": "/project-memory_game/static/media/gyomei.75fe5e4a6e6755e760c8.png",
+    "static/media/tanjiro.png": "/project-memory_game/static/media/tanjiro.409d821c0a2c0d9b9757.png",
+    "static/media/obanai.png": "/project-memory_game/static/media/obanai.fcbeb06dc63da9c01a76.png",
+    "static/media/sanemi.png": "/project-memory_game/static/media/sanemi.95ecd20eb1d614f2b9e5.png",
+    "static/media/muichiro.png": "/project-memory_game/static/media/muichiro.b9af5ff4927083357621.png",
+    "static/media/kanao.png": "/project-memory_game/static/media/kanao.c6c53a646a9ea12eb5ad.png",
+    "static/media/giyu.png": "/project-memory_game/static/media/giyu.fe9b74feaaee6febf31d.png",
+    "static/media/sakonji.png": "/project-memory_game/static/media/sakonji.a991adf7f237f7e56917.png",
+    "static/media/shinobu.png": "/project-memory_game/static/media/shinobu.ce4173dced060db08277.png",
+    "index.html": "/project-memory_game/index.html",
+    "main.2292ce89.css.map": "/project-memory_game/static/css/main.2292ce89.css.map",
+    "main.fffcf4d8.js.map": "/project-memory_game/static/js/main.fffcf4d8.js.map"
   },
   "entrypoints": [
     "static/css/main.2292ce89.css",
-    "static/js/main.39c0a833.js"
+    "static/js/main.fffcf4d8.js"
   ]
 }
